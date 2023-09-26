@@ -1,0 +1,15 @@
+header.header {
+    display: none !important;
+}
+
+h1 {
+    color: #fff;
+}
+
+p {
+    color: #fff;
+}
+
+a.social-icons {
+    color: #fff
+}
