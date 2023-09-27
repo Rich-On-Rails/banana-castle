@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://bananacastle.co.uk"
 title   = "Banana Castle"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Richard Howell"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -164,24 +164,20 @@ disableHugoGeneratorInject = false
 
   # Social icons
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
-
-  [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:hello@bananacastle.co.uk"
 
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/"
+    name = "facebook"
+    url  = "https://facebook.com/bananacastle"
 
   [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    name = "instagram"
+    url  = "https://www.instagram.com/"
 
   [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    name = "mastodon"
+    url  = "https://www.mastodon.social/"
 
 [languages]
   [languages.en]
