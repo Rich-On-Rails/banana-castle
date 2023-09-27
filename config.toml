@@ -173,11 +173,15 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "instagram"
-    url  = "https://www.instagram.com/"
+    url  = "https://www.instagram.com/banana_castle_loco/"
+
+  [[params.social]]
+    name = "tiktok"
+    url  = "https://www.tiktok.com/@bananacastle"
 
   [[params.social]]
     name = "mastodon"
-    url  = "https://www.mastodon.social/"
+    url  = "https://mastodon.social/@bananacastle"
 
 [languages]
   [languages.en]
