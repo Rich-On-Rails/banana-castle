@@ -180,6 +180,10 @@ disableHugoGeneratorInject = false
     url  = "https://www.tiktok.com/@bananacastle"
 
   [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/@banana_castle"
+
+  [[params.social]]
     name = "mastodon"
     url  = "https://mastodon.social/@bananacastle"
 
