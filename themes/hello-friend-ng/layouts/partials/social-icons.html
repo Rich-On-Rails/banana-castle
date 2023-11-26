@@ -1,3 +1,0 @@
-{{ range . -}}
-    &nbsp; <a href="{{ .url }}" class="social-icons" target="_blank" rel="me noopener {{ .rel }}" title="{{ .name | humanize }}">{{ partial "svg.html" . }}</a> &nbsp;
-{{- end -}}
